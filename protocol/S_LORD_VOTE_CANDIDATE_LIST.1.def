@@ -1,0 +1,13 @@
+uint32 unk1
+
+array unk2
+- uint32 unk3
+- uint32 unk4
+- uint32 unk5
+- uint32 unk6
+- uint32 unk7
+- uint32 unk8
+
+- string unk9
+- string unk10
+- string unk11

@@ -1,0 +1,6 @@
+array unk1
+- uint32 unk2
+- array unk3
+- - uint32 unk4
+- - uint32 unk5
+- string unk6
