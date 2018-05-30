@@ -1,0 +1,30 @@
+# Southern Arun (contId: 1):
+#   2 = Island of Dawn
+#   3 = Arcadia,
+#   4 = Poporia
+#   5 = Val Aureum
+#   6 = Ostgarath
+# Southern Shara (contId: 2):
+#   11 = Val Elenium
+#   12 = Westonia
+#   13 = Essenia
+#   14 = Val Palrada
+#   15 = Veritas District
+# Nothern Shara (contId: 3):
+#   19 = Lorcada
+#   20 = Sylvanoth
+#   21 = Val Tirkai
+#   22 = Val Kaeli
+#   23 = Helkan District
+
+count provinces
+offset provinces
+offset statement
+
+uint32 contId
+string statement
+
+array provinces # 5 Provinces, in order.
+- uint32 provinceId
+
+
